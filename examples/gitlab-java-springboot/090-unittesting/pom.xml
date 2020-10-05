@@ -38,7 +38,7 @@
 	</dependencies>
 
 	<build>
-		<directory>/tmp</directory>
+		<directory>/tmp/unittest</directory>
 		<plugins>
 			<plugin>
 				<groupId>org.springframework.boot</groupId>
